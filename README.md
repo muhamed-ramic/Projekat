@@ -1,4 +1,4 @@
 # ReactJs rendering map markers.
-ReactJs,Redux simple web app.
 
-To run this project start the backend server as reactJs app.
+* To run this project start the backend server as reactJs app.
+* BackEnd was only served as to get the locations of map.
